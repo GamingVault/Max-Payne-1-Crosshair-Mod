@@ -7,3 +7,11 @@ This mod works on 16:9 aspect ratio with Widescreen Patch. I am uncertain if it 
 
 I highly recommend using this mod together with the following mod, otherwise this mod might not work properly:
 https://steamcommunity.com/sharedfiles/filedetails/?id=1633394421
+
+Link to Darkje's 'proof of concept' crosshair:
+https://steamcommunity.com/app/12140/discussions/0/1621726179573083388/
+
+# Installation
+
+1. Drop the contents inside the 'Max Payne' folder.
+2. Overwrite if necessary.
